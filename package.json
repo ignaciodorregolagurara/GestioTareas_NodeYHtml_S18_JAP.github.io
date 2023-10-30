@@ -1,0 +1,24 @@
+{
+  "name": "gestiotareas_nodeyhtml_s18_jap.github.io",
+  "version": "1.0.0",
+  "description": "Trabajo de node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciodorregolagurara/GestioTareas_NodeYHtml_S18_JAP.github.io.git"
+  },
+  "author": "SubGrupo4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciodorregolagurara/GestioTareas_NodeYHtml_S18_JAP.github.io/issues"
+  },
+  "homepage": "https://github.com/ignaciodorregolagurara/GestioTareas_NodeYHtml_S18_JAP.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
